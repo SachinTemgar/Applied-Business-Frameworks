@@ -6,6 +6,18 @@ Each analysis was completed as graduate coursework at **Northeastern University*
 
 ---
 
+### [SpaceX's Agile Hardware Revolution](spacex-agile-lean-devops-hardware-transformation.pdf)
+
+| | |
+|---|---|
+| **Domain** | Aerospace · Process Transformation · Organizational Design |
+| **Frameworks** | Agile, Lean (Value Stream Mapping, Kaizen), DevOps, Kotter's 8-Step Change Model |
+| **The Question** | Can software development principles transform hardware manufacturing? |
+
+> SpaceX builds rockets the way software teams ship code: iterate fast, test in public, learn from failures, and fold lessons into the next build. That approach cut development time by 2.6× and costs by 90%. But the real story isn't the practices. It's the org change underneath. They killed departmental silos, gave engineers ownership from design through flight, and replaced cost-plus contracts (where longer = more revenue) with fixed-price deals that forced efficiency. The takeaway: the aerospace industry wasn't slow because the physics was hard. It was slow because nobody questioned processes that worked fine when budgets were unlimited.
+
+---
+
 ## The Work
 
 ### [TSMC's Geographic Expansion & Supply Chain Sovereignty](tsmc-supply-chain-transformation-scor-analysis.pdf)
@@ -17,18 +29,6 @@ Each analysis was completed as graduate coursework at **Northeastern University*
 | **The Question** | Can semiconductor manufacturing be effectively distributed while maintaining efficiency and innovation? |
 
 > Arizona scores 60/100 on SCOR vs Taiwan's 96. Chips cost 30% more, yields are 17 points lower, and closing that gap takes 3 to 5 years at best. The Arizona fab will work. It just won't match Taiwan's efficiency anytime soon. The interesting part is why: you can ship equipment anywhere, but you can't ship 30 years of supplier relationships, tacit engineering knowledge, and ecosystem muscle memory. That gap isn't a bug in the rollout. It's the nature of the problem.
-
----
-
-### [SpaceX's Agile Hardware Revolution](spacex-agile-lean-devops-hardware-transformation.pdf)
-
-| | |
-|---|---|
-| **Domain** | Aerospace · Process Transformation · Organizational Design |
-| **Frameworks** | Agile, Lean (Value Stream Mapping, Kaizen), DevOps, Kotter's 8-Step Change Model |
-| **The Question** | Can software development principles transform hardware manufacturing? |
-
-> SpaceX builds rockets the way software teams ship code: iterate fast, test in public, learn from failures, and fold lessons into the next build. That approach cut development time by 2.6× and costs by 90%. But the real story isn't the practices. It's the org change underneath. They killed departmental silos, gave engineers ownership from design through flight, and replaced cost-plus contracts (where longer = more revenue) with fixed-price deals that forced efficiency. The takeaway: the aerospace industry wasn't slow because the physics was hard. It was slow because nobody questioned processes that worked fine when budgets were unlimited.
 
 ---
 
