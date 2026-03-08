@@ -5,6 +5,7 @@ Real-world strategic analyses applying structured frameworks to complex business
 Each analysis was completed as graduate coursework at **Northeastern University** (INFO 7374, Business Process Engineering). The problems are real. The frameworks are industry-standard. The thinking is my own.
 
 ---
+## The Work
 
 ### [SpaceX's Agile Hardware Revolution](spacex-agile-lean-devops-hardware-transformation.pdf)
 
@@ -17,8 +18,6 @@ Each analysis was completed as graduate coursework at **Northeastern University*
 > SpaceX builds rockets the way software teams ship code: iterate fast, test in public, learn from failures, and fold lessons into the next build. That approach cut development time by 2.6× and costs by 90%. But the real story isn't the practices. It's the org change underneath. They killed departmental silos, gave engineers ownership from design through flight, and replaced cost-plus contracts (where longer = more revenue) with fixed-price deals that forced efficiency. The takeaway: the aerospace industry wasn't slow because the physics was hard. It was slow because nobody questioned processes that worked fine when budgets were unlimited.
 
 ---
-
-## The Work
 
 ### [TSMC's Geographic Expansion & Supply Chain Sovereignty](tsmc-supply-chain-transformation-scor-analysis.pdf)
 
