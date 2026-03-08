@@ -16,7 +16,7 @@ Each analysis was completed as graduate coursework at **Northeastern University*
 | **Frameworks** | SCOR, Value Stream Mapping, Risk Management, Balanced Scorecard |
 | **The Question** | Can semiconductor manufacturing be effectively distributed while maintaining efficiency and innovation? |
 
-> TSMC's Arizona facility scores 36 points lower than Taiwan on SCOR metrics (60/100 vs 96/100). The 30% cost premium, 17-percentage-point yield gap, and 3 to 5 year convergence timeline reveal that distributed manufacturing achieves functionality but cannot replicate concentrated ecosystem efficiency within policy-relevant timeframes. What looks like execution failure is actually the structural reality of ecosystem dependencies, tacit knowledge transfer, and coordination complexity operating simultaneously.
+> Arizona scores 60/100 on SCOR vs Taiwan's 96. Chips cost 30% more, yields are 17 points lower, and closing that gap takes 3 to 5 years at best. The Arizona fab will work. It just won't match Taiwan's efficiency anytime soon. The interesting part is why: you can ship equipment anywhere, but you can't ship 30 years of supplier relationships, tacit engineering knowledge, and ecosystem muscle memory. That gap isn't a bug in the rollout. It's the nature of the problem.
 
 ---
 
@@ -28,7 +28,7 @@ Each analysis was completed as graduate coursework at **Northeastern University*
 | **Frameworks** | Agile, Lean (Value Stream Mapping, Kaizen), DevOps, Kotter's 8-Step Change Model |
 | **The Question** | Can software development principles transform hardware manufacturing? |
 
-> SpaceX reduced development cycles 2.6× and costs by 90% by treating hardware as an iteration medium rather than a perfection target. The transformation wasn't a set of practices bolted onto existing processes. It required restructuring from functional silos to cross-functional product teams, replacing "failure is not an option" with "fail fast, fail cheap, fail in the open," and shifting from cost-plus to fixed-price contracts that forced efficiency. The real insight: processes persist not because they're optimal, but because they're familiar.
+> SpaceX builds rockets the way software teams ship code: iterate fast, test in public, learn from failures, and fold lessons into the next build. That approach cut development time by 2.6× and costs by 90%. But the real story isn't the practices. It's the org change underneath. They killed departmental silos, gave engineers ownership from design through flight, and replaced cost-plus contracts (where longer = more revenue) with fixed-price deals that forced efficiency. The takeaway: the aerospace industry wasn't slow because the physics was hard. It was slow because nobody questioned processes that worked fine when budgets were unlimited.
 
 ---
 
@@ -40,7 +40,7 @@ Each analysis was completed as graduate coursework at **Northeastern University*
 | **Frameworks** | Jobs-to-Be-Done (JTBD), RICE Scoring, SWOT, Competitive Positioning, Product Roadmap |
 | **The Question** | Why did Netflix's gaming push fail to gain traction despite 250M+ subscribers? |
 
-> Less than 1% of subscribers play Netflix games, averaging 8 minutes per month. The failure isn't game quality. It's context mismatch. Netflix is a lean-back platform; gaming is a lean-forward experience. Launching mobile-first ignored that 70% of Netflix consumption happens on TVs. The analysis builds a 12-month product roadmap with RICE-prioritized initiatives, proposing a TV-first cloud gaming strategy anchored to franchise IP (Stranger Things, Squid Game) and measured by Subscriber Churn Delta rather than raw playtime.
+> Less than 1% of Netflix subscribers touch the games. Average playtime: 8 minutes a month. The games aren't bad. The problem is where and how they show up. Netflix is a couch experience. You open it to zone out, not to lean in. Gaming needs the opposite energy. On top of that, they launched on mobile when 70% of viewing happens on TVs. This analysis maps out a 12-month pivot: move to TV-first cloud gaming, build games around the shows people already love (Stranger Things, Squid Game), and stop measuring success by playtime. The real metric is whether gamers cancel less. That's the number that justifies the bet.
 
 ---
 
